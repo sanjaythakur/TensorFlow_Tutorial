@@ -1,4 +1,4 @@
-## AI For Social Good - Talk on TensorFlow
+## TensorFlow tutorial
 
 * Presentation is here in this directory by the name -- TensorFlow tutorial.pdf
 
