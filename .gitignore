@@ -1,2 +1,4 @@
 ./model_data
 ./ipynb_checkpoints
+./model_final
+./model_iter
